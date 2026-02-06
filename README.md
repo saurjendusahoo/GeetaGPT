@@ -1,8 +1,8 @@
-# The Uncompromising Charioteer 🏹
+# GeetaGPT 🏹
 
 > *"Yield not to this impotence, O Partha! It does not befit thee. Cast off this petty faint-heartedness and arise, O Chastiser of Enemies!"*
 
-**The Uncompromising Charioteer** is an AI agent designed to act as **Krishna**, capable of answering spiritual questions using the **Bhagavad Gita** and other Hindu scriptures.
+**GeetaGPT** is an AI agent designed to act as **Krishna**, capable of answering spiritual questions using the **Bhagavad Gita** and other Hindu scriptures.
 
 Unlike typical comforting AI assistants, this agent adopts the persona of the Charioteer—providing direct, uncompromising, and knowledge-based answers. It challenges deviations from Dharma and logic, delivering the "raw, hard truths" of the scriptures.
 
